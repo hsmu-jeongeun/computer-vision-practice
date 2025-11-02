@@ -59,7 +59,7 @@
     <img width="550" alt="image" src="https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2023/03/24/serverless-storytime-using-managed-ai-service-01.png">  
   
     * (예시 2) 모델 구조를 블록다이어그램으로 표현
-    <img width="600" alt="image" src="https://www.researchgate.net/publication/368539704/figure/fig3/AS:11431281143702109@1681264260877/Block-diagram-of-the-MobileNetV2-architecture.png">  
+    <img width="600" alt="image" src="https://zgylqxzz.xml-journal.net/fileZGYLQXZZ/journal/article/zgylqxzz/2024/4/2024-0009-2.jpg">  
   
     * (예시 3) 입력 → 내부 처리 → 결과처럼 각 컴포넌트 사이의 관계를 표현한 시퀀스다이어그램  
     <img width="600" alt="image" src="https://d2908q01vomqb2.cloudfront.net/2a459380709e2fe4ac2dae5733c73225ff6cfee1/2023/03/24/serverless-storytime-using-managed-ai-service-02.png">  

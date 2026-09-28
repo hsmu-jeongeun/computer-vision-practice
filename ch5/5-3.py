@@ -2,9 +2,9 @@ import cv2 as cv
 import numpy as np
 import time
 
-img1=cv.imread('/Users/euni/SrcRepo/hsmu/computer-vision-practice/ch5/mot_color70.jpg')[190:350,440:560] # 버스를 크롭하여 모델 영상으로 사용
+img1=cv.imread('ch5/mot_color70.jpg')[190:350,440:560] # 버스를 크롭하여 모델 영상으로 사용
 gray1=cv.cvtColor(img1,cv.COLOR_BGR2GRAY)
-img2=cv.imread('/Users/euni/SrcRepo/hsmu/computer-vision-practice/ch5/mot_color83.jpg')			     # 장면 영상
+img2=cv.imread('ch5/mot_color83.jpg')			     # 장면 영상
 gray2=cv.cvtColor(img2,cv.COLOR_BGR2GRAY)
 
 sift=cv.SIFT_create()

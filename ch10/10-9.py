@@ -14,7 +14,7 @@ pose = mp_pose.Pose(
 )
 
 # 파일 경로 지정
-video_file_path = 'data/purchacing.mp4'
+video_file_path = 'ch10/data/purchacing.mp4'
 cap = cv.VideoCapture(video_file_path)
 
 # 파일 열기 성공 여부 확인

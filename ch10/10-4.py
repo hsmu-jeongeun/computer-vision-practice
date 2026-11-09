@@ -1,7 +1,7 @@
 import cv2 as cv
 import mediapipe as mp
 
-img=cv.imread('data/face.jpg')
+img=cv.imread('ch10/data/face.jpg')
 
 mp_face_detection=mp.solutions.face_detection
 mp_drawing=mp.solutions.drawing_utils
